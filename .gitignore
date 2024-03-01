@@ -1,0 +1,66 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+__MACOSX
+# Thumbnails
+._*
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Compiled files
+*.o
+*.pyc
+*.pyo
+*.class
+*.dll
+*.exe
+*.bin
+*.so
+*.dylib
+*.app
+*.xcodeproj
+*.xcworkspace
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Compiled Python files
+__pycache__/
+
+# Compiled Java files
+*.class
+
+# Temporary files
+*~
+
+# Text editors
+.vscode/
+
+# MacOSX
+*~
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# IDEA project files
+.idea/
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
